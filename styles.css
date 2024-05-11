@@ -11,7 +11,7 @@
 /* Style for logo in the navbar */
 .navbar-brand img {
     height: 30px;
-    margin-right: 20px; /* Adjust margin as needed */
+    margin-right: 20px;
 }
 * {
 padding: 0;
@@ -83,11 +83,10 @@ background-color: #17c1a3;
 }
 
 .navbar-nav .nav-link:hover {
-    color: red; /* Change color to red on hover */
+    color: red; 
 }
 .custom-read-more {
-color: rgb(50, 205, 177); /* Or any other color value */
-/* Additional styles can be added here */
+color: rgb(50, 205, 177); 
 }
 .card {
 display: flex;
@@ -95,8 +94,8 @@ flex-direction: column;
 }
 
 .card-body {
-flex: 1; /* This allows the card body to expand to fill the remaining space */
+flex: 1; 
 }
 .card {
-border: none; /* Remove border */
+border: none; 
 }
